@@ -1,6 +1,6 @@
 # Nikos Pavlopoulos
 
-📧 [resume@nikospavlopoulos.com](mailto:resume@nikospavlopoulos.com) | 📱 +30 6944041035  
+📧 [resume@nikospavlopoulos.com](mailto:resume@nikospavlopoulos.com) | 📱 +30   
 🌐 [github.nikospavlopoulos.com](https://github.nikospavlopoulos.com) | [linkedin.nikospavlopoulos.com](https://linkedin.nikospavlopoulos.com)
 
 * * *
