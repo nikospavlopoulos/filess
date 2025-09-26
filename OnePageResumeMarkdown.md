@@ -21,8 +21,7 @@ Achieved 95% code coverage (JaCoCo) with JUnit , Spring Boot Integration Tests a
 Front-end developed on HTML/JavaScript with Bootstrap & CSS for registration/login, dashboard and jump forms, with validation & API integration
 
 ### ‘Java’ Project (Spring Boot, MySQL) | “Skydiving Logbook - Thymeleaf Web App” | [skydiveWeb.nikospavlopoulos.com](https://skydiveWeb.nikospavlopoulos.com)
-Full-stack, Java web app, for logging and managing skydiving jumps.  
-Built with Gradle and Spring Boot / MySQL on the back-end; Thymeleaf HTML / CSS templates for server-side UI rendering, and user authentication via Spring Security
+The REST API’s predecessor, a full-stack, Java web app with Thymeleaf. Built with Gradle and Spring Boot / MySQL on the back-end; Thymeleaf HTML / CSS templates for server-side UI rendering, and user authentication via Spring Security
 
 * * *
 
